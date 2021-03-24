@@ -1,0 +1,10 @@
+time,request_method,request_uri,http_user_agent,http_referer,accept_encoding,accept_language
+,,index2.php?user=AlexanderPHP'%20--%20habrahab,,,,
+,,"google.com/index2.php?user=-1' UNION SELECT 1,2,3,4,5 INTO OUTFILE '1.php' --%20",,,,
+,,index2.php?user=ALEX" OR 1=1; --,,,,
+,,"http://example.com/users/?id=1+AND+1=0+UNION+SELECT+1,concat(login,password),+3,4,5,6+FROM+users+WHERE+id+=1; --",,,,
+,,/index2.php?admin=qq"+AND+13+++++=13+OR+1+/*,,,,
+,,/index2.php?admin=+'OR+1<>2,,,,
+,,/u?q=<audio src/onerror=akert(1)>,,,,
+,,/u?q=<x+v-html=_c.constructor('alert(1)')()>,,,,
+,,/y?q=qqq'OR /**/ 1 /**/ = /**/1',,,,
